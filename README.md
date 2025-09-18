@@ -19,5 +19,8 @@ To design a dashboard in Excel to show sales vs profit for product categories in
 • Bar charts makes it easy to see the trends and patterns for each product category both region and month-wise 
 • This concludes that central region in the world has the highest sales and generates the most profit for all product categories
 
+### Tools/ Functions
+MS Excel, SUMIFS, OFFSET, Combo Box, Charts
+
 
 
