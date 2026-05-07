@@ -6,9 +6,7 @@ Organizations operating across multiple regions and product categories require c
 
 ---
 
-## Dashboard Preview
 
-![Sales Dashboard](Sales.Dashboard.png)
 
 ---
 
@@ -159,11 +157,9 @@ Potential enhancements include:
 
 ## Files Included
 
-- Excel dashboard model
-- Dashboard screenshots
-- Sales dataset
-- Analytical summary tables
-- Business performance visualizations
+- E-Commerce_Dashboard (Excel)
+- Sales.Dashboard (PNG)
+
 
 
 
