@@ -3,9 +3,6 @@
 ## Objective
 To design a dashboard in Excel to show sales vs profit for product categories in terms of regions and months
 
-## Dashboard Preview
-
-![Sales Dashboard](Sales.Dashboard.png)
 
 
 ## Process
