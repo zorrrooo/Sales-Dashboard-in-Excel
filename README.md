@@ -6,9 +6,7 @@ Organizations operating across multiple regions and product categories require c
 
 ---
 
-## Dashboard Preview
 
-![Sales Dashboard](Sales.Dashboard.png)
 
 ---
 
